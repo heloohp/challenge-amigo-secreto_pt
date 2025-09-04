@@ -4,6 +4,9 @@
 
 👉 Você pode acessar o projeto clicando no badge acima.
 
+## 👀 Preview
+![Preview da aplicação](image.png)
+
 Este projeto faz parte de um **challenge** proposto pelo curso da **Alura em parceria com a Oracle**, e tem como objetivo fornecer uma forma simples e intuitiva de realizar sorteios de amigos secretos utilizando apenas o navegador. Neste desafio colocaremos em prática conceitos fundamentais de **lógica de programação**, como variáveis, condicionais, funções, listas e loops de repetição. Esses conceitos constituem a base de qualquer linguagem de programação, independentemente de sua complexidade.
 
 O projeto foi desenvolvido com **HTML** e **JavaScript**, utilizando conceitos básicos de manipulação do DOM para permitir que usuários adicionem nomes, visualizem a lista de participantes e realizem sorteios de forma aleatória.
@@ -45,4 +48,3 @@ O principal propósito do projeto é demonstrar como funções simples podem ser
 
 Este projeto demonstra como aplicações simples podem ser desenvolvidas de forma clara e eficiente, sendo útil como referência para iniciantes em programação ou como ferramenta prática para pequenos grupos que desejam realizar sorteios de amigos secretos.  
 
----
