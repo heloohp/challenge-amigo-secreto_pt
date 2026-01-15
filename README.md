@@ -5,6 +5,7 @@
 👉 Você pode acessar o projeto clicando no badge acima.
 
 ## 👀 Preview
+Este projeto foi desenvolvido com fins educacionais.
 ![Preview da aplicação](image.png)
 
 Este projeto faz parte de um **challenge** proposto pelo curso da **Alura em parceria com a Oracle**, e tem como objetivo fornecer uma forma simples e intuitiva de realizar sorteios de amigos secretos utilizando apenas o navegador. Neste desafio colocaremos em prática conceitos fundamentais de **lógica de programação**, como variáveis, condicionais, funções, listas e loops de repetição. Esses conceitos constituem a base de qualquer linguagem de programação, independentemente de sua complexidade.
